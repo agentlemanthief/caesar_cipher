@@ -26,16 +26,4 @@ def caesar_cipher(word, shift)
   puts result
 end
 
-# def get_word()
-#   puts "Please enter a word or phrase to encrypt"
-#   gets.chomp
-# end
-
-# def get_cipher()
-#   puts "Please enter a cipher shift value"
-#   gets.chomp.to_i
-# end
-
-# puts caesar_cipher(get_word, get_cipher)
-
 caesar_cipher("What a string!", 5)
