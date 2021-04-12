@@ -1,4 +1,4 @@
-require './lib/caesar_cipher'
+require './lib/caesar_cipher1'
 
 describe '#caesar_cipher' do
   it 'Works with single letters' do
